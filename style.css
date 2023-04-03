@@ -1,0 +1,40 @@
+#head{
+    margin: auto;
+    width: 100%;
+    height: 60px;
+    border: 0;
+    background-color: #000000;
+    text-align: center;
+    padding: 5px;
+    border-spacing: 5px;
+    color: white;
+}
+#head2{
+    margin: auto;
+    width: 100%;
+    height: 150px;
+    border: 0;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 5px;
+    border-spacing: 5px;
+    color: white;
+}
+table{
+    margin: auto;
+}
+td{
+
+    text-align: center;
+    font-family: Verdana, Geneva,sans-serif ;
+
+}
+#name{
+    font-size: 30px;
+}
+
+.register{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
